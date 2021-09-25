@@ -1,0 +1,7 @@
+C:\Users\Aaron\source\repos\consolepic\consolepic\bin\Debug\consolepic.exe.config
+C:\Users\Aaron\source\repos\consolepic\consolepic\bin\Debug\consolepic.exe
+C:\Users\Aaron\source\repos\consolepic\consolepic\bin\Debug\consolepic.pdb
+C:\Users\Aaron\source\repos\consolepic\consolepic\obj\Debug\consolepic.csproj.AssemblyReference.cache
+C:\Users\Aaron\source\repos\consolepic\consolepic\obj\Debug\consolepic.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\source\repos\consolepic\consolepic\obj\Debug\consolepic.exe
+C:\Users\Aaron\source\repos\consolepic\consolepic\obj\Debug\consolepic.pdb
